@@ -5,22 +5,21 @@ offre une supervision intuitive et en temps réel, tandis que le système embarq
 des données.
 
 # 📌 Objectifs du projet
+**.** Concevoir une interface graphique (IHM) moderne pour le suivi des paramètres automobiles
 
-Concevoir une interface graphique (IHM) moderne pour le suivi des paramètres automobiles
+**.** Collecter et transmettre les données via un microcontrôleur STM32F407
 
-Collecter et transmettre les données via un microcontrôleur STM32F407
+**.** Superviser les grandeurs suivantes :
 
-Superviser les grandeurs suivantes :
+  **.** 🌡️ Température du liquide de refroidissement
 
-🌡️ Température du liquide de refroidissement
+  **.** ⚙️ Régime moteur (RPM)
 
-⚙️ Régime moteur (RPM)
+  **.** ⛽ Niveau de carburant
 
-⛽ Niveau de carburant
+**.** Assurer une communication locale et distante via Qt et ThingSpeak IoT
 
-Assurer une communication locale et distante via Qt et ThingSpeak IoT
-
-Développer un système fiable et modulable, applicable à des environnements industriels et automobiles
+**.** Développer un système fiable et modulable, applicable à des environnements industriels et automobiles
 
 # 🤝 Contribution
 Les contributions sont les bienvenues !
