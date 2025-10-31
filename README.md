@@ -7,7 +7,7 @@ des données.
 # 📌 Objectifs du projet
 **.** Concevoir une interface graphique (IHM) moderne pour le suivi des paramètres automobiles
 
-**.** Collecter et transmettre les données via un microcontrôleur STM32F407
+**.** Collecter et transmettre les données via un microcontrôleur STM32F407VGTx
 
 **.** Superviser les grandeurs suivantes :
 
