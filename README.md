@@ -11,11 +11,11 @@ des données.
 
 **.** Superviser les grandeurs suivantes :
 
-       **.** 🌡️ Température du liquide de refroidissement
+       - 🌡️ Température du liquide de refroidissement
 
-       **.** ⚙️ Régime moteur (RPM)
+       - ⚙️ Régime moteur (RPM)
 
-       **.** ⛽ Niveau de carburant
+       - ⛽ Niveau de carburant
 
 **.** Assurer une communication locale et distante via Qt et ThingSpeak IoT
 
