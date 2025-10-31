@@ -23,6 +23,7 @@ des données.
 
 # 🖼️ Architecture du système
 <p align="center"> <img src="architecture.png" alt="Architecture du système" width="700"/> </p>
+
 # 🤝 Contribution
 Les contributions sont les bienvenues !
 N’hésitez pas à ouvrir une issue ou à proposer une pull request pour améliorer le projet.
